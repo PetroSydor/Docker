@@ -1,6 +1,6 @@
 Docker build:
 
-docker build rabbitmq:3.6.11 -t rabbitmq:3.6.11
+docker build rabbitmq:3.6.11 -t rabbitmq:3.6.11, default http web managment port 15672.
 
 
 Docker run example program:
